@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T07:41:38.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JUsVcNumlyT4Qmgx0IUW" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-10T08:53:55.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sjN2LqLv-PoL0_bazJZs" version="20.2.3" type="github" pages="2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -556,7 +556,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wh-uZh3fliBKs_waPIL7-1" value="UEM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#e0d19b;" parent="1" vertex="1">
-          <mxGeometry x="-2200" y="20" width="200" height="60" as="geometry" />
+          <mxGeometry x="-2040" y="20" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wh-uZh3fliBKs_waPIL7-4" value="1.0&lt;br&gt;&amp;nbsp;Windows Patch&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;strokeColor=#314354;fillColor=#647687;" parent="1" vertex="1">
           <mxGeometry x="-2400" y="160" width="120" height="60" as="geometry" />
@@ -576,11 +576,17 @@
         <mxCell id="Lr5mwwrVqtjVMXNS6GIh-5" value="6.0&lt;br&gt;Documents" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;strokeColor=#314354;fillColor=#647687;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lr5mwwrVqtjVMXNS6GIh-6" value="&lt;p style=&quot;font-size: 13px; line-height: 1;&quot;&gt;&lt;font face=&quot;Noto Sans Traditional Chinese&quot; style=&quot;font-size: 13px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Traditional+Chinese&quot;&gt;3.1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Noto Sans Traditional Chinese&quot; style=&quot;font-size: 13px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Traditional+Chinese&quot;&gt;設備群組分權&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3c4d;fontColor=#ffffff;strokeColor=none;fontFamily=Noto Sans Traditional Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTraditional%2BChinese;spacing=0;textDirection=ltr;" vertex="1" parent="1">
+        <mxCell id="Lr5mwwrVqtjVMXNS6GIh-6" value="&lt;p style=&quot;line-height: 1; font-size: 11px;&quot;&gt;&lt;font face=&quot;Noto Sans Traditional Chinese&quot; style=&quot;font-size: 11px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Traditional+Chinese&quot;&gt;3.1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Noto Sans Traditional Chinese&quot; style=&quot;font-size: 11px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Traditional+Chinese&quot;&gt;設備群組分權表&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3c4d;fontColor=#ffffff;strokeColor=none;fontFamily=Noto Sans Traditional Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTraditional%2BChinese;spacing=0;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-2040" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lr5mwwrVqtjVMXNS6GIh-7" value="&lt;p style=&quot;line-height: 1;&quot;&gt;6.1&lt;/p&gt;&lt;p style=&quot;line-height: 1;&quot;&gt;時程表&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3c4d;fontColor=#ffffff;strokeColor=none;glass=0;sketch=0;shadow=0;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr5mwwrVqtjVMXNS6GIh-10" value="&lt;p style=&quot;line-height: 1;&quot;&gt;6.2&lt;/p&gt;&lt;p style=&quot;line-height: 1;&quot;&gt;測試計劃表&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3c4d;fontColor=#ffffff;strokeColor=none;glass=0;sketch=0;shadow=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr5mwwrVqtjVMXNS6GIh-11" value="&lt;p style=&quot;line-height: 1;&quot;&gt;6.3&lt;/p&gt;&lt;p style=&quot;line-height: 1;&quot;&gt;報價單&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3c4d;fontColor=#ffffff;strokeColor=none;glass=0;sketch=0;shadow=0;spacing=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
